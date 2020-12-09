@@ -8,6 +8,6 @@
 ---
 ### Model: Modified GoogLeNet
 #### GoogLeNet 논문을 참고하여 일부를customize하여 사용
-* accuracy
+##### accuracy
 - binary: 92%
 - bymerge: 90.6%
